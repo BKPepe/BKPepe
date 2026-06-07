@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Josef Schlehofer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BKPepe)
+[![Josef Schlehofer's GitHub Stats](https://github-stats-extended.vercel.app/api?username=BKPepe&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=BKPepe&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)
 
 <!--
 **BKPepe/BKPepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
